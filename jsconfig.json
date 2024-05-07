@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@screens/*": ["./src/patient_screens/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@helpers/*": ["./src/helpers/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@components/*": ["./src/components/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@navigation/*": ["./src/navigation"],
+      "@redux/*": ["./src/redux"],
+    }
+  }
+}
